@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning competitive programming.
 - 🤔 I’m looking for help with web development.
 - 💬 Ask me about nothing.
-- 📫 How to reach me: .mamke#0014
+- 📫 How to reach me: .mamke#0014 (discord)
 - 😄 Pronouns: He/Him uwu
