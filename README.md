@@ -1,4 +1,4 @@
-#bruh
+bruh
 
 - 🔭 I’m currently working on a latin-croatian dictionary and random projects.
 - 🌱 I’m currently learning competitive programming and rust.
